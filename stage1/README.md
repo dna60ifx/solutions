@@ -1,5 +1,5 @@
-Recommended Solution for Stage 1
-================================
+Stage 1: Recommended Solution
+=============================
 
 Download and install jellyfish: http://www.cbcb.umd.edu/software/jellyfish/
 

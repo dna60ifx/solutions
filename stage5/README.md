@@ -1,5 +1,5 @@
-Stage 5 Recommended Solution
-===========================
+Stage 5: Recommended Solution
+=============================
 
 + Install ALLPATHS-LG from: http://www.broadinstitute.org/software/allpaths-lg/blog/?page_id=12
 + Install MUMmer from: http://mummer.sourceforge.net/

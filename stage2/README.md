@@ -1,5 +1,5 @@
-Stage 2 Recommended Solution
-============================
+Stage 2: Recommended Solution
+=============================
 
 Download and install the EMBOSS Package: http://emboss.sourceforge.net/index.html
 

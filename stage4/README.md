@@ -1,5 +1,5 @@
-Stage 4 Recommended Solution
-============================
+Stage 4: Recommended Solution
+=============================
 
 The easiest solution is to use the BLASTN workflow from CAMERA: https://portal.camera.calit2.net
 

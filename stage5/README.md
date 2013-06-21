@@ -1,9 +1,9 @@
 Stage 5 Recommended Solution
 ===========================
 
-Install ALLPATHS-LG from: http://www.broadinstitute.org/software/allpaths-lg/blog/?page_id=12
-Install MUMmer from: http://mummer.sourceforge.net/
-Install SAMTools from: http://samtools.sourceforge.net/
++ Install ALLPATHS-LG from: http://www.broadinstitute.org/software/allpaths-lg/blog/?page_id=12
++ Install MUMmer from: http://mummer.sourceforge.net/
++ Install SAMTools from: http://samtools.sourceforge.net/
 
 
 1. First assemble the genome with ALLPATHS-LG using the in_libs.csv and in_groups.csv files

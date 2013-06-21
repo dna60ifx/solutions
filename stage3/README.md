@@ -5,11 +5,14 @@ Stage 1: Recommended Solution
 + Download and install samtools: http://samtools.sourceforge.net/
 
 Index the ecoli genome:
+
 ```
 $ bowtie-build ecoli.fa ecoli
 ```
 
 Align the reads with bowtie:
+
+```
 $ bowtie ecoli -1 t1.1.fq -2 t1.2.fq -S > t1.sam
 # reads processed: 23902
 # reads with at least one reported alignment: 18774 (78.55%)

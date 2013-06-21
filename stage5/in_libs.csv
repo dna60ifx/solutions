@@ -1,0 +1,3 @@
+library_name, project_name, organism_name, type,     paired, frag_size, frag_stddev, insert_size, insert_stddev, read_orientation, genomic_start, genomic_end
+180,          cshl,        cshl,         fragment, 1,      180,       20,          ,            ,              inward,           0,             0
+2k,           cshl,        cshl,         jumping,  1,      ,          ,            2000,        200,           outward,          0,             0

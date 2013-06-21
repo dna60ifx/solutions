@@ -23,3 +23,4 @@ AGCGACA 70
 GGTAGCG 31
 ```
 
+The most frequently occuring kmer, TAGCGAC, occured 295 times in these data.
